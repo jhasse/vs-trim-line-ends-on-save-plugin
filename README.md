@@ -9,7 +9,7 @@ Allows also to enforce line ending format via settings page:
 Options:
 
 * `Windows` - \r\n
-* `Unix` - \r\n
+* `Unix` - \n
 * `VisualStudio` - uses the Environment.NewLine
 * `Current` - keeps line endings encountered in the file
 
